@@ -1,0 +1,5 @@
+theme: jekyll-theme-primer
+title: "👨‍💻 Learning Programming — Sandbox Multilíngue"
+description: "Laboratório para estudo e comparação de paradigmas entre C, C++, Java, Python e JavaScript."
+kramdown:
+  parse_block_html: true
