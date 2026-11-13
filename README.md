@@ -1,11 +1,10 @@
 # 👨‍💻 Learning Programming — Sandbox Multilíngue
 
 <div align="center">
-
-[![Languages](https://img.shields.io/badge/Linguagens-C_%7C_C%2B%2B_%7C_Java_%7C_Python_%7C_JS-brightgreen?style=for-the-badge)](https://github.com/ed1rac/learning_programming)
-
-**Repositório laboratorial para comparação de paradigmas e sintaxes entre múltiplas linguagens de programação.**
-
+  <p>
+    <a href="https://github.com/ed1rac/learning_programming"><img src="https://img.shields.io/badge/Linguagens-C_%7C_C%2B%2B_%7C_Java_%7C_Python_%7C_JS-brightgreen?style=for-the-badge" alt="Languages"></a>
+  </p>
+  <p><strong>Repositório laboratorial para comparação de paradigmas e sintaxes entre múltiplas linguagens de programação.</strong></p>
 </div>
 
 ---
